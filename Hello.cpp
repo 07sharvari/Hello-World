@@ -1,5 +1,5 @@
 #include<iostram>
-namespace std;
+using namespace std;
 int main()
 {
   cout<<"Hello World"<<endl<<endl;
